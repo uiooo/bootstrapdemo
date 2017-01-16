@@ -1,0 +1,50 @@
+body{
+	font-family: "微软雅黑";
+}
+#hot .list-group-item {
+    padding: 10px 15px 9px 15px;
+}
+/*图片设置64*64*/
+.wd64{
+	width: 64px;
+	height: 64px;
+}
+/*微调进度条样式*/
+.progress {
+    margin-bottom: 11px;
+}
+/*留言内容button*/
+input.btn.btn-default {
+    margin-top: 15px;
+}
+/*userlist页面*/
+.page-header h1{
+	margin: 0;
+	font-size: 16px;
+}
+.page-header{
+	margin-top: 0;
+}
+/*userSearch*/
+.formBord{
+	border: 1px solid #DDDDDD;
+	border-top: none;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+/*content_post*/
+#formMarg{
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
+/*tag标签页*/
+.taglist{
+	margin-top: 15px;
+}
+.taglist .alert{
+	margin-right: 15px;
+}
+footer{
+	margin: 10px 0;
+	text-align: center;
+}
